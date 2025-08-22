@@ -50,4 +50,7 @@ uvicorn app.main:app --reload
 После запуска доступна по адресу:
 http://127.0.0.1:8000/docs
 
-
+Для проверки тестов
+```bash
+pytest
+```
