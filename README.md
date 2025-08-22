@@ -7,11 +7,11 @@
 ---
 
 ## Стек технологий
-- Python 3.11
+- Python 3.12+
 - FastAPI
 - SQLAlchemy
 - Alembic
-- SQLite (по умолчанию)
+- SQLite 
 - Pytest
 
 ---
